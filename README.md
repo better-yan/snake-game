@@ -2,6 +2,21 @@
 
 一个使用纯 HTML、CSS 和 JavaScript 开发的经典贪吃蛇游戏。
 
+## 📸 游戏截图
+
+<div align="center">
+
+### 游戏开始
+![游戏开始](screenshots/game-start.png)
+
+### 游戏进行中
+![游戏进行中](screenshots/gameplay.png)
+
+### 游戏结束
+![游戏结束](screenshots/game-over.png)
+
+</div>
+
 ## ✨ 特性
 
 - 🎮 使用方向键控制蛇的移动
