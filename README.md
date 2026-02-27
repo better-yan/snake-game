@@ -32,7 +32,7 @@
 
 ### 在线游玩
 
-直接访问 [在线演示](https://better-yan.github.io/snake-game/) 开始游戏！
+直接访问 [在线演示](https://better-yan.github.io/snake-game/snake/) 开始游戏！
 
 ### 本地运行
 
